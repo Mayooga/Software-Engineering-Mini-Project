@@ -1,4 +1,4 @@
-# Traffic Detector v2
+# Traffic Violation Detector 
 
 A Python-based traffic violation detection application using YOLOv8 for real-time analysis of video streams. It identifies risky behaviors such as speeding, erratic maneuvers, and phone use while driving, providing violation reports.
 
